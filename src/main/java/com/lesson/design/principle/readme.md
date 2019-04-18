@@ -25,4 +25,4 @@
 ##7、组合/聚合复用原则（CARP：Composite/Aggregate Reuse Principle）
 
 
-##附：低耦合高内聚
+##附：高内聚低耦合
