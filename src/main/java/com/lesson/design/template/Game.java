@@ -5,7 +5,7 @@ package com.lesson.design.template;
  *
  * @author henry
  */
-public class Game extends TemplateGame {
+public class Game extends GameTemplate {
 
     @Override
     public Object s1() {

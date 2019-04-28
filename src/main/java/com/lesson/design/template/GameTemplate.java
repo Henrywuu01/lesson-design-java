@@ -5,7 +5,7 @@ package com.lesson.design.template;
  *
  * @author henry
  */
-abstract class TemplateGame {
+abstract class GameTemplate {
 
     public abstract Object s1();
     public abstract Object s2();
